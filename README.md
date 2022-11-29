@@ -23,6 +23,8 @@ The Kaggle and rating data were then merged with the Wikipedia movies DataFrame.
 
 4. Load the data to a PostgreSQL Movie Database
 
+![img](https://github.com/bikachuuuuuu/Movies-ETL/blob/main/Resources/movie_data.PNG?raw=true)
+
 ## Summary
 
 The ETL function created collects and cleans movie data from different sources (Wikipedia JSON and Kaggle and ratings csv files). It transforms and merges the data and loads it into two updatable PostgreSQL dataset tables ready to be used by the hackathon participants for their analysis.
